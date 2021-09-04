@@ -15,9 +15,13 @@ PROCESS-NAME,WebTorrent Helper
 DOMAIN-SUFFIX,smtp
 DOMAIN-KEYWORD,aria2
 DOMAIN-KEYWORD,torrent
+DOMAIN-KEYWORD,xunlei
+DOMAIN-KEYWORD,yunpan
+DOMAIN-KEYWORD,Thunder
+DOMAIN-KEYWORD,XLLiveUD
 # XunLei
 PROCESS-NAME,DownloadService.exe
 # Tencent Weiyun
 PROCESS-NAME,Weiyun.exe
-#Baidu disk
+# Baidu disk
 PROCESS-NAME,baidunetdisk.exe
