@@ -1,0 +1,24 @@
+# Client
+# > Proxy
+PROCESS-NAME,v2ray,DIRECT
+PROCESS-NAME,ss-local,DIRECT
+# > Download
+PROCESS-NAME,aria2c,DIRECT
+PROCESS-NAME,fdm,DIRECT
+PROCESS-NAME,Folx,DIRECT
+PROCESS-NAME,NetTransport,DIRECT
+PROCESS-NAME,Thunder,DIRECT
+PROCESS-NAME,Transmission,DIRECT
+PROCESS-NAME,uTorrent,DIRECT
+PROCESS-NAME,WebTorrent,DIRECT
+PROCESS-NAME,WebTorrent Helper,DIRECT
+# bt
+DOMAIN-SUFFIX,smtp
+DOMAIN-KEYWORD,aria2
+DOMAIN-KEYWORD,torrent
+# XunLei
+PROCESS-NAME,DownloadService.exe
+# Tencent Weiyun
+PROCESS-NAME,Weiyun.exe
+#Baidu disk
+PROCESS-NAME,baidunetdisk.exe
