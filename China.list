@@ -147,6 +147,7 @@ DOMAIN-SUFFIX,steamcontent.com
 DOMAIN-SUFFIX,steamstatic.com
 DOMAIN-SUFFIX,steamcdn-a.akamaihd.net
 DOMAIN-SUFFIX,steamstat.us
+DOMAIN-SUFFIX,steampipe.akamaized.net
 # > Tencent
 USER-AGENT,MicroMessenger%20Client
 USER-AGENT,WeChat*
