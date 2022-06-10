@@ -577,3 +577,6 @@ DOMAIN-SUFFIX,yimg.com
 DOMAIN,api.steampowered.com
 DOMAIN,store.steampowered.com
 DOMAIN,upos-hz-mirrorakam.akamaized.net
+# > MC
+DOMAIN-KEYWORD,mojang
+DOMAIN-KEYWORD,minecraft
