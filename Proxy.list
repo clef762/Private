@@ -437,6 +437,8 @@ DOMAIN-SUFFIX,state.gov
 DOMAIN-SUFFIX,staticflickr.com
 DOMAIN-SUFFIX,steamcommunity.com
 DOMAIN-SUFFIX,store.akamai.steamstatic.com
+DOMAIN-SUFFIX,store.cloudflare.steamstatic.com
+DOMAIN-SUFFIX,community.cloudflare.steamstatic.com
 DOMAIN-SUFFIX,community.akamai.steamstatic.com
 DOMAIN-SUFFIX,storify.com
 DOMAIN-SUFFIX,stumbleupon.com
