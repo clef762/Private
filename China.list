@@ -179,6 +179,8 @@ DOMAIN-SUFFIX,ip-cdn.com
 DOMAIN-SUFFIX,ipv6-test.com
 DOMAIN-SUFFIX,test-ipv6.com
 DOMAIN-SUFFIX,whatismyip.com
+# SteamDownload
+DOMAIN-KEYWORD,steampipe
 # > Speed Test
 # DOMAIN-SUFFIX,speedtest.net
 DOMAIN-SUFFIX,netspeedtestmaster.com
