@@ -7,6 +7,10 @@ DOMAIN-SUFFIX,line-cdn.net
 DOMAIN-SUFFIX,line-scdn.net
 DOMAIN-SUFFIX,nhncorp.jp
 
+# re1999
+DOMAIN-SUFFIX,hotupdate-hw.sl916.com
+DOMAIN-SUFFIX,gamesdk-en.sl916.com
+
 # > Sony
 DOMAIN-SUFFIX,playstation.com
 DOMAIN-SUFFIX,playstation.net
